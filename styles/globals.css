@@ -6,6 +6,8 @@ body {
   padding: 0;
   margin: 0;
   font-family: 'Rubik', sans-serif;
+  color: white;
+  background-color: black;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
@@ -22,8 +24,5 @@ a {
 @media (prefers-color-scheme: dark) {
   html {
     color-scheme: dark;
-  }
-  body {
-    color: white;
   }
 }
